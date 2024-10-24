@@ -5,7 +5,6 @@ Welcome to the Rock-Paper-Scissors Game! This is a simple implementation of the 
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [How to Play](#how-to-play)
 - [Features](#features)
 - [Installation](#installation)
